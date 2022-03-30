@@ -3,7 +3,7 @@
 
 
 I am a student and work on different projects and Minecraft stuff in my free time.  
-My main programming language is Java, and I'm learning C++ and C# on the side.
+My main programming language is Java, and I'm learning C++ and Kotlin on the side.
 
 ## Contact
 Discord: spλmbleHD#8893
