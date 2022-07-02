@@ -1,6 +1,6 @@
 # About me
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=Lambda-spg&repo=github-visitors-badge&countColor=%237B1E7A)
-
+![Metrics](/github-metrics.svg)
 
 I am a student and work on different projects and Minecraft stuff in my free time.  
 My main programming language is Java, and I'm learning C++ and Kotlin on the side.
