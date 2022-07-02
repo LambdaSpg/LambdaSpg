@@ -1,2 +1,2 @@
 # Lambda-spg
-![Metrics](/metrics.plugin.topics.icons.svg)
+![Metrics](/github-metrics.svg)
