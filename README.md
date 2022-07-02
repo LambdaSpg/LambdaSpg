@@ -1,2 +1,2 @@
-<h1>Lambda-spg</h1>
+#Lambda-spg
 ![Metrics](/metrics.plugin.topics.icons.svg)
