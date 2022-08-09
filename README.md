@@ -1,2 +1,2 @@
-# Lambda-spg
+# LambdaSpg
 ![Metrics](/github-metrics.svg)
