@@ -1,2 +1,2 @@
-# LambdaSpg
+# Konrad Simlinger
 ![Metrics](/github-metrics.svg)
